@@ -49,4 +49,3 @@ Valid words (according to `words.txt` and the game rules) earn points based on t
 
 ### Notes
 - If `words.txt` cannot be found, the program will print `Not found` in the terminal.
-- This project was created as a **Computer Science 11 summative** assignment.
